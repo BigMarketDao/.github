@@ -1,25 +1,6 @@
 # BigMarket - Bitcoin Prediction Market powered by Stacks
 
-### Brief Introduction
-
-Our submission consists of;
-
-- Bitcoin prediction market [Clarity contract](https://github.com/BigMarketDao/bigmarket-dao/blob/main/contracts/extensions/bme023-0-market-bitcoin.clar) in github (plus ui / api / ai agent server repositories)
-- Open source [clarity-bitcoin-client](https://github.com/BigMarketDao/clarity-bitcoin-client) for generating bitcoin Merkle proof data
-- Live (on stacks testnet) [sBTC prediction markets](https://bigmarket.ai/market/10/1?chain=testnet)
-- [Mainnet tooling](https://bigmarket.ai/tools/proofs?chain=mainnet) for generating clarity-bitcoin-lib-v5 parameters
-- A [technical deep dive](https://big-market-dao.gitbook.io/big-market-dao-docs/hackathon/catamaran-swaps-on-devnet) on getting catamaran swaps working on clarinet devnet.
-- Short video showing market operating in bitcoin mode on 'sBTC Testnet' with user staking by sending a bitcoin transaction using PSBT signing with Leather wallet.
-
-![YouTube Video](https://www.youtube.com/watch?v=lYNQCXzgdrk)
-
-- A short video demonstrating Catamaran Swaps on devnet
-
-![YouTube Video](https://www.youtube.com/watch?v=g5VtMdnYGGU)
-
-# BigMarket
-
-## Executive Summary
+## Introduction
 
 The current prediction market landscape is fragmented, with platforms that are either too complex for mainstream adoption or restricted to specific regions like North America. Most fail to integrate AI for enhanced market efficiency and accessibility.
 
