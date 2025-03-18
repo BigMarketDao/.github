@@ -1,6 +1,6 @@
 # BigMarket - Bitcoin Prediction Markets 
 
-| 🚀 Powered by Stacks
+🚀 Powered by Stacks
 
 ## Introduction
 
