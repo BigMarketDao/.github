@@ -1,87 +1,101 @@
-# BigMarket — Bitcoin-Native Prediction Markets
 
-🚀 Powered by Stacks
+# BigMarket — Decentralized Prediction Platform for Everyone  
 
-## Why BigMarket
-We live in a time where misinformation costs billions and trust in traditional institutions is collapsing. Social media influencers and unaccountable groups profit regardless of accuracy. There is no system where being correct is rewarded and being wrong is penalized.
+🌍 Global. Transparent. User-Owned.  
 
-**BigMarket exists to fix this.**
+## Why BigMarket  
+We live in a time where misinformation costs billions and trust in traditional institutions is collapsing. Social media influencers and unaccountable groups profit whether the information they spread is true or false. There is no system where accuracy is rewarded and falsehoods are penalized.  
 
-By using prediction markets tied to Bitcoin, we create **economic accountability**:
-- Accuracy becomes profitable — correct predictions earn returns.
-- Misinformation becomes expensive — wrong predictions cost money.
-- Signal separates from noise — market stakes filter out manipulation.
-- Collective wisdom emerges — aggregated predictions reveal real probabilities.
+**BigMarket exists to change this.**  
 
-Make truth discoverable, measurable, and profitable.
+By using prediction markets secured by Bitcoin, we create **economic accountability**:  
+- Accuracy becomes profitable — correct predictions earn returns.  
+- Misinformation becomes costly — wrong predictions lose value.  
+- Signal separates from noise — stakes filter out manipulation.  
+- Collective wisdom emerges — aggregated predictions show real probabilities.  
 
----
+Make truth discoverable, measurable, and rewarding.  
 
-## How BigMarket Works
-BigMarket is a **Bitcoin-native, AI-powered, decentralized prediction platform** built on Stacks. The platform is governed by its community through a DAO, ensuring users hold majority ownership and control.
+---  
 
-Key mechanisms:
-- **Hybrid Market Resolution:** AI, oracles (Pyth), and DAO governance combine to settle markets transparently.
-- **On-Chain Transparency:** All markets and payouts are executed via Clarity smart contracts, verifiable on-chain.
-- **Censorship Resistance:** Open access and community governance prevent gatekeeping.
-- **Bitcoin Security:** Leveraging sBTC, users stake and claim rewards directly with Bitcoin.
-- **Community Ownership:** Governance is distributed, aligning incentives with users instead of institutions.
+## How BigMarket Works  
+BigMarket is a **Bitcoin-native, decentralized prediction platform** built on the Stacks Bitcoin L2 blockchain. It is governed by its community through a DAO and $BIG token, ensuring users hold majority ownership and control.  
 
-Use Bitcoin as the foundation of trust, and AI + DAO to automate accountability.
+Key mechanisms:  
+- **Hybrid Market Resolution** — AI + oracles (Pyth) + DAO governance combine to settle markets transparently.  
+- **On-Chain Transparency** — All markets and payouts are executed via Clarity smart contracts, verifiable by anyone. Fees and value flows are open and governed by DAO vote.  
+- **Censorship Resistance** — Community governance prevents gatekeeping. We host questions others avoid.  
+- **Bitcoin Security** — Anchored in Bitcoin. Users can stake and claim directly with BTC.  
+- **Community Ownership** — Reputation ($BigR) converts into governance power ($BIG), ensuring accuracy and participation are rewarded.  
 
-Tokens currently accepted by the platfrom are: $BTC/sBTC $STX $BIG ( platfrom token earned trough participatin, as a reputation rewards that is sole-bound to user wallet and can be exchanged for main governance token)
+We use Bitcoin as the foundation of trust, and combine AI + DAO for automated accountability.  
 
----
+Currently supported tokens: **$BTC / sBTC, $STX, $BIG**  
 
-## What BigMarket Delivers
-BigMarket is Bitcoin-native prediction market infrastructure with testnet live and mainnet imminent. It enables **global, user-owned prediction markets** where anyone can create or participate. Market creation for now is gated to platform creators and gradualy will be released to public.
+---  
 
-### Core Features
-- **Market Types:** Binary (Yes/No), categorical, and scalar.
-- **Token Support:** STX, sBTC, BIG governance token, and community-approved SIP-18 tokens.
-- **Gasless UX:** Bitcoin users transact without needing STX, using sponsored transactions.
-- **Liquidity Model:** Constant product market maker (CPMM) with dynamic pricing.
-- **Treasury Management:** DAO-controlled, algorithmic treasury.
-- **Cross-Chain Pipeline:** Wormhole integration planned to bridge to Solana and Sui.
-- **Tech Stack:** Clarity (Stacks smart contracts), Svelte (UI), MongoDB + Google Cloud (backend in v1 improvments planed for v2 and moving away from centraliseed platfroms), AI for automation.
+## What BigMarket Delivers  
+BigMarket is live on testnet and preparing for mainnet launch. It enables **global, user-owned prediction markets** where anyone can participate, and soon, anyone can create markets.  
 
-### Access & Participation
-- **Live Demo:** [bigmarket.ai](https://bigmarket.ai)
-- **Wallets:** Requires [Leather](https://leather.io/) or [Xverse](https://www.xverse.app/) wallet.
-- **Testnet:** Runs on Stacks testnet with STX, sBTC, and BIG tokens.
-- **Community Voting:** Any SIP-18 token can be enabled for market creation via DAO governance. Token creators with 100K+ market cap can request listing.
+### Core Features  
+- **Market Types** — Binary (Yes/No), categorical, and scalar.  
+- **Token Support** — STX, sBTC, BIG governance token, and community-approved SIP-18 tokens.  
+- **Gasless UX** — Bitcoin users transact without STX via sponsored transactions.  
+- **Liquidity Model** — Constant product market maker (CPMM) with adaptive pricing.  
+- **DAO Treasury** — Managed by governance, with automated allocation to support liquidity and rewards.  
+- **Cross-Chain Ready** — Wormhole integration planned for Solana and Sui.  
+- **Tech Stack** — Clarity (smart contracts), Svelte (UI), cloud backend (v1), AI automation for market creation and resolution.  
 
-### Achievements
-- 🥇 DoraHacks Hackathon — 1st place DeFi, 2nd overall.
-- 🛠 Built with deep Stacks ecosystem integration (sBTC, Clarity, oracles).
+### Why It’s Different (USP)  
+- **Bitcoin-Native Security** — Solana and most alt chains can inflate supply; Bitcoin’s hard cap and transparency ensure a base layer of trust. BigMarket inherits that.  
+- **Fully On-Chain Resolution** — No central arbiter. Outcomes are decided via AI, oracles, and DAO oversight.  
+- **Permissionless Market Creation** — Moving toward an open model where anyone can propose and launch markets.  
+- **Transparency by Design** — All odds, fees, and outcomes are visible on-chain, creating user trust and auditability.  
+- **Scalable Liquidity** — AI and protocol-owned pools ensure continuous liquidity, even across long-tail markets.  
 
-A decentralized, Bitcoin-secured platform for global prediction markets.
+The result: a platform that feels simple to use, yet is anchored in Bitcoin-grade security and full transparency.  
 
----
+---  
 
-## Contributing
-We welcome contributions and security reviews. While this repository exposes our **DAO code and smart contracts** (public), our **API and UI** remain private.
+## Access & Participation  
+- **Live Demo:** [bigmarket.ai](https://bigmarket.ai)  
+- **Wallets:** Use [Leather](https://leather.io/) or [Xverse](https://www.xverse.app/).  
+- **Testnet:** Active with STX, sBTC, and BIG tokens.  
+- **Community Governance:** Any SIP-18 token can be voted in for market creation.  
 
-- Open issues and PRs for technical improvements.
-- Join our developer community on [Discord] https://discord.gg/WhdxNhSV
-- Report bugs or vulnerabilities via GitHub issues.
+---  
 
-Licensing: Code is published for review and transparency, not for reuse in production.
+## Achievements  
+- 🥇 DoraHacks Hackathon — 1st place DeFi, 2nd overall.  
 
----
+---  
 
-## Get Started
-1. Install [Leather](https://leather.io/) or [Xverse](https://www.xverse.app/) wallet.
-2. Visit [bigmarket.ai](https://bigmarket.ai).
-3. Connect your wallet and try live markets.
-4. Join our Discord to get involved in governance and development.
+## Contributing  
+We welcome contributions and security reviews. This repository contains DAO code and smart contracts (public), while API and UI are private.  
 
----
+- Open issues and PRs for technical improvements.  
+- Join our developer community on [Discord](https://discord.gg/WhdxNhSV).  
+- Report bugs or vulnerabilities via GitHub issues.  
 
-### Building Economic Accountability on Bitcoin
+*Code is published for review and transparency, not for reuse in production.*  
 
-Team is building a platform and infrastructure for economic accountability that could reshape how information flows through digital communities.
+---  
 
-### Disclaimer
+## Get Started  
+1. Install [Leather](https://leather.io/) or [Xverse](https://www.xverse.app/).  
+2. Visit [bigmarket.ai](https://bigmarket.ai).  
+3. Connect your wallet and try live markets.  
+4. Join our Discord to take part in governance and development.  
 
-BigMarket.ai is experimental software currently in test phase. Prediction markets may be subject to regulatory restrictions in certain jurisdictions. Always conduct your own research and never risk more than you can afford to lose.
+---  
+
+### Building Economic Accountability on Bitcoin  
+BigMarket is infrastructure for reliable, user-owned forecasting. It solves the problem of misinformation by attaching real economic weight to truth — making predictions transparent, auditable, and secured on Bitcoin.
+- **Your markets, your rules** — governed by the DAO, not a company.  
+- **Your security** — anchored in Bitcoin-grade transparency, all outcomes resolved on-chain.  
+- **Your rewards** — accuracy and participation earn reputation and governance tokens.  
+- **Your freedom** — no curation bottlenecks, no gatekeepers.  
+
+
+### Disclaimer  
+BigMarket.ai is experimental software in test phase. Prediction markets may be subject to regulatory restrictions in some jurisdictions. Always do your own research and never risk more than you can afford to lose.
